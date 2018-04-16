@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 void sum(a,b);	//Expand this piece of code 
+{
+int c;
+c=a+b;
+}//this piece is written by sajal sood
 void multiply(a,b);
 void divide(a,b);
 {
@@ -25,7 +29,7 @@ int main()
 		case 3:		divide(a,b);
 				break;
 		default : cout<<"WRONG CHOICE!!!"
-			  	break;
+			  	break;			//It's working fine
 	}
 	return 0;
 }
