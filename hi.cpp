@@ -29,3 +29,13 @@ int main()
 	}
 	return 0;
 }
+void multiply()
+{ int c
+	cout<<"enter two numbers";
+	c = a*b;
+	cout<<c;
+
+
+
+}
+
