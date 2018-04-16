@@ -25,7 +25,7 @@ int main()
 		case 3:		divide(a,b);
 				break;
 		default : cout<<"WRONG CHOICE!!!"
-			  	break;
+			  	break;			//It's working fine
 	}
 	return 0;
 }
