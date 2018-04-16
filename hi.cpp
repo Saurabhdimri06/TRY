@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 void sum(a,b);	//Expand this piece of code 
+{
+int c;
+c=a+b;
+}//this piece is written by sajal sood
 void multiply(a,b);
 void divide(a,b);
 {
